@@ -90,11 +90,11 @@ if (testNumber % 3 == 0 && testNumber % 5 == 0) {
 // console.log(res)
 
 
-let a=15
-let b=10
-    a=a-b
-    b=b+a
-    a=b-a
+let a = 15
+let b = 10
+a = a - b
+b = b + a
+a = b - a
 
 
 console.log(a)
